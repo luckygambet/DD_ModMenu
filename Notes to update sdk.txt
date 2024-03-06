@@ -1,3 +1,5 @@
+To generate an sdk refer to this site https://www.unknowncheats.me/forum/unreal-engine-3-a/71911-thefeckless-ue3-sdk-generator.html
+
 SdkHeaders.h
 replace the top of this file with the below code
 
